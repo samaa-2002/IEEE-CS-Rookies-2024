@@ -42,7 +42,7 @@
 |[ D. Xor](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/D)|[ D. Xor](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_4/Xor)|
 |[N. Convert to Base](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/N)|[N. Convert to Base](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_4/Convert%20to%20Base)|
 |[ F. Multiplication of Matrices](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/F)|[ F. Multiplication of Matrices](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_4/Multiplication%20of%20Matrices)|
-|[ H. GCD](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/H)|[ H. GCD](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/H)|
+|[ H. GCD](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/H)|[ H. GCD](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_4/GCD)|
 |[K. Combination and Permutation ](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/K)|[K. Combination and Permutation ](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_4/Combination%20and%20Permutation)|
 |[W. Circles](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/W)|[W. Circles](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_4/Circle)|
 |[Y. Common Area](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/Y)|[Y. Common Area](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_4/Common%20Area)|
