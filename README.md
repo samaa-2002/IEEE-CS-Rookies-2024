@@ -2,7 +2,7 @@
 | Problem                                           |                             solution                                            |
 |---------------------------------------------------|---------------------------------------------------------------------------------|
 |[I. Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I)    | [I. Smallest Pair](IEEE-CS-Rookies-2024/Task-1/smallestPair)   |
-| [L. Max Subarray](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L)      | [L. Max Subarray]([IEEE-CS-Rookies-2024/Task-1/MaxSubarray](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/IEEE-CS-Rookies-2024/Task-1/Max%20Subarray))  |
+| [L. Max Subarray](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L)      | [L. Max Subarray]([IEEE-CS-Rookies-2024/Task-1/MaxSubarray](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/IEEE-CS-Rookies-2024/Task-1/Max%20Subarray) |
 | [M. Replace MinMax](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M)      | [M. Replace MinMax](IEEE-CS-Rookies-2024/Task-1/ReplaceMinMax)  |
 |[N. Check Code](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/N)      |[N. Check Code](IEEE-CS-Rookies-2024/Task-1/checkcode)|
 |[P. Minimize Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/P)|[P. Minimize Number](IEEE-CS-Rookies-2024/Task-1/MinimizeNumber)|
