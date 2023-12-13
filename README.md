@@ -14,13 +14,13 @@
 # task_2
 | Problem                                           |                             solution                                            |
 |---------------------------------------------------|---------------------------------------------------------------------------------|
-|[A. Create A New String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/A)|[A. Create A New String](Task_2/CreateANewString)|
-|[H. Good or Bad]()|[H. Good or Bad](Task_2/GoodorBad)|
-|[G. Conversion](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G)|[G. Conversion](Task_2/Conversion)|
-|[M. Subsequence String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/M)|[M. Subsequence String](Task_2/Conversion)|
-|[N. Max Subsequence](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/N)|[N. Max Subsequence](Task_2/MaxSubsequence)|
-|[P. Count Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/P)|[P. Count Words](Task_2/CountWords)|
-|[W. Encrypt & Decrypt Message](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/W)|[W. Encrypt & Decrypt Message](Task_2/EncryptandDecryptMessage)|
+|[A. Create A New String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/A)|[A. Create A New String](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/Task_2/Create%20A%20New%20String)|
+|[H. Good or Bad]()|[H. Good or Bad](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/Task_2/Good%20or%20Bad)|
+|[G. Conversion](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G)|[G. Conversion](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/Task_2/Conversion)|
+|[M. Subsequence String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/M)|[M. Subsequence String](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/Task_2/Subsequence%20String)|
+|[N. Max Subsequence](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/N)|[N. Max Subsequence](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/Task_2/Max%20Subsequence)|
+|[P. Count Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/P)|[P. Count Words](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/Task_2/Count%20Words)|
+|[W. Encrypt & Decrypt Message](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/W)|[W. Encrypt & Decrypt Message](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/Task_2/Encrypt%20and%20Decrypt%20Message)|
 
 
 # Task-3
