@@ -1,11 +1,11 @@
 # Task_1
 | Problem                                           |                             solution                                            |
 |---------------------------------------------------|---------------------------------------------------------------------------------|
-|[I. Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I)    | [I. Smallest Pair](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/IEEE-CS-Rookies-2024/Task-1/smallestPair)   |
-| [L. Max Subarray](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L)      | [L. Max Subarray](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/IEEE-CS-Rookies-2024/Task-1/Max%20Subarray) |
-| [M. Replace MinMax](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M)      | [M. Replace MinMax](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/IEEE-CS-Rookies-2024/Task-1/Replace%20MinMax)  |
-|[N. Check Code](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/N)      |[N. Check Code](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/IEEE-CS-Rookies-2024/Task-1/check%20code)|
-|[P. Minimize Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/P)|[P. Minimize Number](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/IEEE-CS-Rookies-2024/Task-1/Minimize%20Number)|
+|[I. Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I)    | [I. Smallest Pair   ](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/IEEE-CS-Rookies-2024/Task-1/smallestPair)   |
+| [L. Max Subarray](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L)      | [L. Max Subarray   ](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/IEEE-CS-Rookies-2024/Task-1/Max%20Subarray) |
+| [M. Replace MinMax](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M)      | [M. Replace MinMax  ](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/IEEE-CS-Rookies-2024/Task-1/Replace%20MinMax)  |
+|[N. Check Code](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/N)      |[N. Check Code  ](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/IEEE-CS-Rookies-2024/Task-1/check%20code)|
+|[P. Minimize Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/P)|[P. Minimize Number  ](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/IEEE-CS-Rookies-2024/Task-1/Minimize%20Number)|
 |[Q. Count Subarrays](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Q)|[Q. Count Subarrays](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/IEEE-CS-Rookies-2024/Task-1/Count%20Subarrays)|
 |[R. Permutation with arrays](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/R)|[R. Permutation with arrays](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/IEEE-CS-Rookies-2024/Task-1/Permutation%20with%20arrays)|
 |[U. Is B a subsequence of A ?](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/U)|[U. Is B a subsequence of A ?](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/IEEE-CS-Rookies-2024/Task-1/Is%20B%20a%20subsequence%20of%20A)|
