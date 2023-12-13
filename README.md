@@ -26,14 +26,14 @@
 # Task-3
 | Problem                                           |                             solution                                            |
 |---------------------------------------------------|---------------------------------------------------------------------------------| 
-|[B. Print](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/B)|[B. Print](task_3/Print)|
-|[C. Wonderful Number](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/C)|[C. Wonderful Number](task_3/WonderfulNumber)|
-|[D. Prime Function](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/D)|[D. Prime Function](task_3/PrimeFunction)|
-|[F. Equation](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/F)|[F. Equation](task_3/Equation)|
-|[L. New Array](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/L)|[L. New Array](task_3/NewArray)|
-|[I. Swapping With Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/I)|[I. Swapping With Matrix](task_3/SwappingWithMatrix)|
-|[K. Shift Right](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/K)|[K. Shift Right](task_3/ShiftRight)|
-|[O. Five in One](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/O)|[O. Five in One](task_3/FiveinOne)|
+|[B. Print](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/B)|[B. Print](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_3/Print)|
+|[C. Wonderful Number](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/C)|[C. Wonderful Number](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_3/Wonderful%20Number)|
+|[D. Prime Function](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/D)|[D. Prime Function](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_3/Prime%20Function)|
+|[F. Equation](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/F)|[F. Equation](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_3/Equation)|
+|[L. New Array](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/L)|[L. New Array](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_3/New%20Array)|
+|[I. Swapping With Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/I)|[I. Swapping With Matrix](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_3/Swapping%20With%20Matrix)|
+|[K. Shift Right](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/K)|[K. Shift Right](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_3/Shift%20Right)|
+|[O. Five in One](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/O)|[O. Five in One](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_3/Five%20in%20One)|
 
 
 
