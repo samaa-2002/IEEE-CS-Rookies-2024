@@ -48,6 +48,18 @@
 |[Y. Common Area](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/Y)|[Y. Common Area](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_4/Common%20Area)|
 |[O. Big Add and Multiply](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/O)|[O. Big Add and Multiply](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_4/Big%20Add%20and%20Multiply)|
 
+# Task_5
+| Problem                                           |                             solution                                            |
+|---------------------------------------------------|---------------------------------------------------------------------------------| 
+|[ O. Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/O)|[ O. Fibonacci](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_5/O.%20Fibonacci)|
+|[ B. Print from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/B)|[ B. Print from 1 to N](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_5/B.%20Print%20from%201%20to%20N)|
+|[ D. Print Digits using Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/D)|[ D. Print Digits using Recursion](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_5/D.%20Print%20Digits%20using%20Recursion)|
+|[S. Array Average](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/S)|[S. Array Average](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_5/S.%20Array%20Average)|
+|[ Q. 3n+1 sequence](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Q)|[ Q. 3n+1 sequence](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_5/Q.%203n%201%20sequence)|
+|[W. Reach Value](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/W)|[W. Reach Value](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_5/W.%20Reach%20Value)|
+|[ U. Knapsack](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/U)|[ U. Knapsack](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_5/U.%20Knapsack)|
+| [ X. The maximum path-sum](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/X)|[ X. The maximum path-sum](https://github.com/samaa-2002/IEEE-CS-Rookies-2024/tree/main/task_5/X.%20The%20maximum%20path-sum)|
+
 
 
 
